@@ -1,16 +1,17 @@
 {
-    "data": [
-        {
-            "nombre": "gorila",
-            "url": "https://github.com/MartinFlambo/listadoCanciones/blob/main/gorila.mp3"
-        },
-        {
-            "nombre": "nightfall",
-            "url": "https://github.com/MartinFlambo/listadoCanciones/blob/main/nifghtall.mp3"
-        },
-        {
-            "nombre": "soulsweeper",
-            "url": "https://github.com/MartinFlambo/listadoCanciones/blob/main/soulsweeper.mp3"
-        }
-    ]
+  "data": [
+    {
+      "nombre": "gorila",
+      "url": "https://raw.githubusercontent.com/MartinFlambo/listadoCanciones/main/gorila.mp3"
+    },
+    {
+      "nombre": "nightfall",
+      "url": "https://raw.githubusercontent.com/MartinFlambo/listadoCanciones/main/nightfall.mp3"
+    },
+    {
+      "nombre": "soulsweeper",
+      "url": "https://raw.githubusercontent.com/MartinFlambo/listadoCanciones/main/soulsweeper.mp3"
+    }
+  ]
 }
+
